@@ -1,0 +1,15 @@
+{
+    "name": "paulantezana/fqrcode",
+    "autoload": {
+        "psr-4": {
+            "Paulantezana\\Fqrcode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yoel antezana",
+            "email": "yoel.antezana@gmail.com"
+        }
+    ],
+    "require": {}
+}
